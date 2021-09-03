@@ -1,0 +1,14 @@
+.header-main {
+  background-color: rgb(140, 135, 204);
+  height: 100px;
+  width: fit-content;
+  position: absolute;
+  top: 0%;
+  width: 100%;
+}
+
+.links-to-pages {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
